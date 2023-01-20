@@ -7,7 +7,7 @@ npm install
 npm start
 ```
 
-**File Introduction**
+## File Introduction
 
 **assets:** used to add CSS, JavaScript or Images
 
@@ -24,6 +24,8 @@ npm start
 **package-lock:** created for locking the dependency with the installed version
 
 **server.js:** open a file on the server
+
+## Page Display
 
 **index.ejs**
 ![79b6bd72360dd71a3fd8acac8f8b37a](https://user-images.githubusercontent.com/86568954/213601756-0f145585-c288-44f2-a245-a921fb2e2bff.png)
